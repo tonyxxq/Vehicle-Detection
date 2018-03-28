@@ -53,7 +53,7 @@
   plt.show()
   ```
 
-  ![1](/Users/xiaoqiangxie/Downloads/CarND-Vehicle-Detection-master/imgs/1.jpg)
+  ![1](imgs/1.jpg)
 
 - 提取HOG特征
 
@@ -114,7 +114,7 @@
   plt.show()
   ```
 
-  ![2](/Users/xiaoqiangxie/Downloads/CarND-Vehicle-Detection-master/imgs/2.jpg)
+  ![2](imgs/2.jpg)
 
 - 提取空间特征和颜色直方图特征，且把之上的特征进行合并。
 
@@ -300,7 +300,7 @@
   plt.show()
   ```
 
-  ![3](/Users/xiaoqiangxie/Downloads/CarND-Vehicle-Detection-master/imgs/3.jpg)
+  ![3](imgs/3.jpg)
 
 - 使用heatmap去掉错误检测的数据
 
@@ -320,7 +320,7 @@
   plt.show()
   ```
 
-  ![4](/Users/xiaoqiangxie/Downloads/CarND-Vehicle-Detection-master/imgs/4.jpg)
+  ![4](imgs/4.jpg)
 
 - 使用label把检测到的区域外接矩形框。
 
@@ -340,7 +340,7 @@
   plt.show()
   ```
 
-  ![5](/Users/xiaoqiangxie/Downloads/CarND-Vehicle-Detection-master/imgs/5.jpg)
+  ![5](imgs/5.jpg)
 
 - 设置中心点检测判断
 
@@ -403,4 +403,4 @@
   """.format("project_video_output.mp4"))
   ```
 
-  ![6](/Users/xiaoqiangxie/Downloads/CarND-Vehicle-Detection-master/imgs/6.jpg)
+  ![6](imgs/6.jpg)
