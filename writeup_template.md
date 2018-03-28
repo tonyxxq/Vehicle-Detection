@@ -391,7 +391,7 @@
   white_clip.write_videofile("project_video_output.mp4", audio=False)
   ```
 
-- 展示，视频地址 [点这里]("project_video_output.mp4")
+- 展示，视频地址 [点这里](project_video_output.mp4)
 
   ```python
   from IPython.display import HTML
